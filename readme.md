@@ -15,6 +15,6 @@ pip install -r requirements.txt
 To use the script, run the following command in the terminal:
 ```python
 
-python script_name.py reference_file.tsv estimated_file.tsv
+python f1score.py reference_file.tsv estimated_file.tsv
 
 ```
